@@ -47,18 +47,7 @@ The framework was evaluated on the **DC1000 Dental Caries Dataset** for lesion s
 
 Experiments were performed using the **DC1000 Dental Caries Dataset**.
 
-Dataset structure:
-
-```text
-DC1000_dataset/
-├── org_train_dataset/
-│   ├── images/
-│   └── labels/
-│
-├── org_test_dataset/
-│   ├── images/
-│   └── labels/
-```
+Google Drive source: https://drive.google.com/file/d/1Xn1oGHvhGF9GbkcLEtCOV5QvWWqt1y62/view?usp=drive_link
 
 The dataset contains annotated dental caries lesions extracted from panoramic dental radiographs.
 
