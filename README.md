@@ -36,8 +36,7 @@ The framework was evaluated on the **DC1000 Dental Caries Dataset** for lesion s
 │   ├── MLUA_Core_Implementation_Report.pdf
 │   └── MLUA_Enhanced_Implementation_Report.pdf
 │
-├── Presentation/
-│   └── MLUA_Combined_Presentation.pptx
+├── MLUA_Combined_Presentation.pptx
 │
 └── README.md
 ```
